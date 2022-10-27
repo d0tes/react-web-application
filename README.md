@@ -3,8 +3,8 @@
 <p align="center">
   <a href="https://github.com/d0tes/react-web-application/graphs/contributors" alt="Contributors">
       <img src="https://img.shields.io/github/contributors/d0tes/react-web-application" /></a>
-  <a href="https://github.com/badges/shields/pulse" alt="Activity">
-      <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+  <a href="https://github.com/d0tes/react-web-application/pulse" alt="Activity">
+      <img src="https://img.shields.io/github/commit-activity/m/d0tes/react-web-application" /></a>
   <a href="https://github.com/d0tes/react-web-application/blob/docs/readme/LICENSE" alt="License">
       <img src="https://img.shields.io/github/license/d0tes/react-web-application" /></a>
 </p>
