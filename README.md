@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-A project to bootstrap learning [React.js](https://reactjs.org/). Learning things by doing.
+A project to bootstrap learning <a href="https://reactjs.org/" alt="React.js">React.js</a>. Learning things by doing.
 </p>
 
 ## Getting Started
